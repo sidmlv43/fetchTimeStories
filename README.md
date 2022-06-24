@@ -2,15 +2,13 @@
 
 This application is used to fetch top 6 stories from time.com website
 
-## Installation
-
-Use the package manager [npm](https://www.npmjs.com/) to install the application.
-
-```bash
-npm install
-```
-
 ## Usage
+
+In terminal run following command
+
+```
+node ./index.js
+```
 
 visit localhost:3000/getTimeStories/
 
