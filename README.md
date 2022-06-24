@@ -44,7 +44,4 @@ Result
    }
 ]
 ```
-# getTimeStories
-# getTimeStories
-# getTimeStories
-# getTimeStories
+
